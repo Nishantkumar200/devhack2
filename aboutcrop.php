@@ -22,6 +22,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="aboutcrop.php"> <i class="fas fa-edit"></i> Fill form</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="searchunion.php"> <i class="fas fa-search"></i>Search Union</a>
+            </li>
             <li class="nav-item" >
                 <a class="nav-link"href="viewprofile.php"><i class="fas fa-user-alt"></i> View profile</a>
             </li>
@@ -31,7 +34,9 @@
         </ul>
     </div>
 </nav>
-<div class="container-fluid mt-4">
+<div class="jumbotron">
+<div class="container-fluid">
+    
     <div class="card mt-4">
         <div class="card-body">
         <form action="">
@@ -49,7 +54,7 @@
                             <input type="text" class="form-control" name="" id="">
                         </div>
                         <div class="form-group">
-                            <label for="equipments">Equiments</label>
+                            <label for="equipments">Equipments</label>
                             <input type="text" class="form-control" name="" id="">
                         </div>
                         <div class="form-group">
@@ -78,7 +83,7 @@
                             <input type="text" class="form-control" name="" id="">
                         </div>
                         <div class="form-group">
-                            <label for="equipments">Equiments</label>
+                            <label for="equipments">Equipments</label>
                             <input type="text" class="form-control" name="" id="">
                         </div>
                         <div class="form-group">
@@ -107,7 +112,7 @@
                             <input type="text" class="form-control" name="" id="">
                         </div>
                         <div class="form-group">
-                            <label for="equipments">Equiments</label>
+                            <label for="equipments">Equipments</label>
                             <input type="text" class="form-control" name="" id="">
                         </div>
                         <div class="form-group">
@@ -128,6 +133,7 @@
 </form>
     </div>
     </div>
+</div>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>

@@ -6,8 +6,8 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
-<link rel="stylesheet" href="css/style3.css">
-<title>Farmer Dashboard</title>
+<link rel="stylesheet" href="style.css">
+<title>View Profile</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
@@ -16,8 +16,8 @@
     </button>
     <div id="my-nav" class="collapse navbar-collapse">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="farm_dash.php"> <i class="fas fa-tachometer-alt"></i> Dashboard<span class="sr-only">(current)</span></a>
+            <li class="nav-item ">
+                <a class="nav-link " href="farm_dash.php"> <i class="fas fa-tachometer-alt"></i> Dashboard<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="aboutcrop.php"> <i class="fas fa-edit"></i> Fill form</a>
