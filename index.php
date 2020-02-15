@@ -31,7 +31,7 @@
     </select>
 </div>
 <button class ="btn btn-primary btn-block" type="submit">Login</button>
-<small><i>Don't have an account?</i><a href="register.php"> Register</a></small>
+<small><i>Don't have an account?</i><a href="register_farm.php"> Register Farmer</a></small> <small><a href="company_registration.php"> | Register Company </a></small>
 <br>
 <small><a href="#">Forgot password</a></small>
 </form>
